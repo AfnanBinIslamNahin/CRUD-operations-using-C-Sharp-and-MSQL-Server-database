@@ -2,8 +2,7 @@
 Desktop CRUD App Written In C#(.NET Framework)
 
 ## Screenshot
-![App Screenshot](https://github.com/AfnanBinIslamNahin/CRUD-operations-using-C-Sharp-and-MSQL-Server- 
-                              database/blob/main/curd.png)
+![image alt](https://github.com/AfnanBinIslamNahin/CRUD-operations-using-C-Sharp-and-MSQL-Server-database/tree/6191f9aff899cf9e28feaa933322cd770383a6d8/picture)
 
 ### Bulit With
 - C#(.Net Framework)
