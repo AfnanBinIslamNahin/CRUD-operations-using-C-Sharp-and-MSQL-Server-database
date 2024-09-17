@@ -2,7 +2,7 @@
 Desktop CRUD App Written In C#(.NET Framework)
 
 ## Preview
-![Screenshot 2024-08-19 225202](https://github.com/user-attachments/assets/d69719c4-7416-4304-8be3-52d197639fec)
+
 
 ### Bulit With
 - C#(.Net Framework)
@@ -26,6 +26,7 @@ CREATE TABLE [dbo].[CURDForm] (
     [city]   VARCHAR (50) NULL,
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
+
 #### Insert Data
 ```bash
 insert into CURDForm values (@id,@name,@salary,@city)
