@@ -3,6 +3,8 @@ Desktop CRUD App Written In C#(.NET Framework)
 
 ## Screenshot
 ![image alt](https://github.com/AfnanBinIslamNahin/CRUD-operations-using-C-Sharp-and-MSQL-Server-database/tree/6191f9aff899cf9e28feaa933322cd770383a6d8/picture)
+![App Screenshot](https://github.com/yourusername/yourrepo/blob/main/assets/screenshot.png)
+
 
 ### Bulit With
 - C#(.Net Framework)
