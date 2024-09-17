@@ -26,23 +26,23 @@ CREATE TABLE [dbo].[CURDForm] (
     [city]   VARCHAR (50) NULL,
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
-
+```
 #### Insert Data
 ```bash
 insert into CURDForm values (@id,@name,@salary,@city)
-
+```
 #### Delete Data
 ```bash
 delete CURDForm where id=@id
-
+```
 #### Update Data
 ```bash
 update CURDForm set name=@name,salary=@salary,city=@city where id=@id
-
+```
 #### Search Data
 ```bash
 select * from CURDForm where id = @id
-
+```
 ## Tech Stack
 
 **Programming Language:** C# <br><br>
