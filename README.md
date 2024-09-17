@@ -2,7 +2,7 @@
 Desktop CRUD App Written In C#(.NET Framework)
 
 ## Preview
-
+curd.png
 
 ### Bulit With
 - C#(.Net Framework)
